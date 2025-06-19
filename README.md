@@ -29,8 +29,8 @@ Donkey Kong
 ## 📁 Estrutura
 
 mariokart/
-├── index.js
-└── README.md
+- index.js
+- README.md
 
 ## 📚 Repositório oficial do desafio
 
