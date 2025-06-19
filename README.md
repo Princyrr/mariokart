@@ -27,12 +27,16 @@ Luigi
 Donkey Kong
 
 ## 📁 Estrutura
-pgsql
-Copiar
-Editar
+
 mariokart/
 ├── index.js
 └── README.md
+
+## 📚 Repositório oficial do desafio
+
+Você pode conferir o projeto original e o material completo no repositório da Digital Innovation One:
+
+[Formação Node.js - Projeto Mario Kart](https://github.com/digitalinnovationone/formacao-nodejs/tree/main/03-projeto-mario-kart)
 
 
 ## 🧑‍💻 Criado por  
